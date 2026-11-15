@@ -151,6 +151,14 @@ Watch the complete installation tutorial on YouTube.
 http://127.0.0.1:8081
 ```
 
+
+━━━━━━━━━━━━━━━━━━━━
+🔐 **Access Credentials**
+
+👤 **Username:** `admin`  
+🔑 **Password:** `Bahida2026@`
+
+━━━━━━━━━━━━━━━━━━
 ---
 
 ## ⚠️ Important Notes
