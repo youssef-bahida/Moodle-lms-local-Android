@@ -107,3 +107,73 @@ Bitnami-LMS-Moodle/
 │
 └── 📂 docs/
     └── INSTALLATION.md
+
+
+
+
+
+🚀 **MOODLE LMS ON ANDROID — COMPLETE RESTORATION GUIDE**
+
+Run your own Moodle LMS environment directly on an Android tablet using Termux and PRoot-Distro! 📚
+
+━━━━━━━━━━━━━━━━━━━━
+
+📦 **1. MOODLE LMS — COMPRESSED BACKUP**
+
+Download the complete compressed backup archive containing the Moodle LMS environment and required files.
+
+👉 **DOWNLOAD BACKUP:**
+https://drive.google.com/drive/folders/1NbXhfX29bTPHXKU_I3VbBsARRNbYDLB5?usp=sharing
+
+━━━━━━━━━━━━━━━━━━━━
+
+📖 **2. INSTALLATION GUIDE — STEP BY STEP**
+
+Access the installation instructions to restore your Moodle LMS environment safely, from architecture verification to launching your local platform.
+
+👉 **OPEN INSTALLATION GUIDE:**
+[INSERT GUIDE LINK HERE]
+
+━━━━━━━━━━━━━━━━━━━━
+
+🛠 **WHAT'S INCLUDED?**
+- Moodle LMS 4.5
+- Apache Web Server
+- PHP
+- MariaDB Database
+- Required configurations and scripts
+- Complete LMS environment
+
+📱 **TARGET DEVICE:** Samsung Galaxy Tab — 64-bit ARM (aarch64)
+
+🌐 **LOCAL ACCESS:**
+http://127.0.0.1:8081
+
+⚠ **IMPORTANT:** Follow the instructions carefully. Do not delete existing backups or containers.
+
+━━━━━━━━━━━━━━━━━━━━
+
+👨‍💻 **CREATED & SHARED BY**
+
+**YOUSSEF BAHIDA**
+
+🌐 GitHub:
+https://github.com/youssef-bahida
+
+📧 Contact:
+youssefbahida18@gmail.com
+
+━━━━━━━━━━━━━━━━━━━━
+🔐 **Access Credentials**
+
+👤 **Username:** `admin`  
+🔑 **Password:** `Bahida2026@`
+
+━━━━━━━━━━━━━━━━━━
+
+✨ Prepared and shared with you by  
+**© Youssef Bahida**
+
+⭐ LIKE • SHARE • SUBSCRIBE
+
+**Keep Learning. Keep Building. Keep Innovating.** 🚀
